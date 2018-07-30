@@ -1,5 +1,7 @@
 # Softmax Action Detection Visualization
 
+[Visualization Demo](https://iandanforth.github.io/smaction/)
+
 [Description of Softmax Action Selection](http://www.incompleteideas.net/book/ebook/node17.html)
 
 The impact of temperature (tau) in the softmax equation on the probability of an action being selected may not be immediately obvious.
