@@ -96,7 +96,7 @@ export class DefaultPage extends Component {
       xaxis: {
         categoryorder: "category ascending",
         type: "category",
-        title: "Action name and value in an example state."
+        title: "Action name and estimated value in an example state."
       },
       yaxis: {
         title: "Probability"

@@ -2,6 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://iandanforth.github.io/smaction",
   "dependencies": {
     "ajv": "^6.5.2",
     "autoprefixer": "7.1.6",
