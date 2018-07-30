@@ -164,7 +164,7 @@ export class DefaultPage extends Component {
           <div style={wrapperStyle}>
             <p>Change the softmax temperature</p>
             <Slider 
-              min={1} 
+              min={-2000} 
               max={2000}
               step={1}
               defaultValue={100}
